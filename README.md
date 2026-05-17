@@ -1,7 +1,9 @@
 # DIO_Bootcamp-Lupo_IA-App_Financas_Vibe_Coding
 Projeto conceitual de um app de finanças pessoais com IA, criado com a abordagem Vibe Coding para orientar ferramentas como Copilot e Lovable através de prompts estratégicos, criativos e focados no desenvolvimento de soluções para o mercado.
 
-# Orby — App de Organização de Finanças Pessoais com Vibe Coding
+---
+
+# Orby — App de Organização de Finanças Pessoais
 
 **Orby** é um aplicativo financeiro mobile focado em criar consistência financeira e ajudar na construção da reserva de emergência, especialmente desenhado para profissionais de renda variável e iniciantes no controle financeiro.
 
@@ -351,10 +353,12 @@ Fim do prompt.
   <img width="2510" height="954" alt="login500" src="https://github.com/user-attachments/assets/166e975f-b633-432e-9e3d-302349b70a83" alt="imagem das telas das páginas projeto App Finanças Pessoais"/> 
 </p>
 
+---
+
 #### Deploy
----
-https://orby-fintech.onrender.com/
----
+
+[Abrir app (deploy)](https://orby-fintech.onrender.com/)
+
 
 _Projeto desenvolvido para o Desafio Lupo da DIO._
 ## 👨‍💻 Autor
