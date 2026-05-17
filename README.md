@@ -348,7 +348,7 @@ Fim do prompt.
 ### Prévia da Interface 
 
 <p align="center">
-  <img width="480" src="./src/assets/to_readme/" alt="imagem das telas das páginas projeto App Finanças Pessoais"
+  <img width="2510" height="954" alt="login500" src="https://github.com/user-attachments/assets/166e975f-b633-432e-9e3d-302349b70a83" alt="imagem das telas das páginas projeto App Finanças Pessoais"/> 
 </p>
 
 #### Deploy
@@ -362,4 +362,4 @@ _Projeto desenvolvido para o Desafio Lupo da DIO._
 **Ricardo Werner**  
 Desenvolvedor Front-end com foco em acessibilidade, UX e inclusão digital. 
 </br>
-Apaixonado por mergulho, fotografia,tecnologia e inovação.
+Apaixonado por mergulho, fotografia, tecnologia e inovação.
