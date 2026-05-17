@@ -345,3 +345,21 @@ Fim do prompt.
 
 ```
 
+### Prévia da Interface 
+
+<p align="center">
+  <img width="480" src="./src/assets/to_readme/" alt="imagem das telas das páginas projeto App Finanças Pessoais"
+</p>
+
+#### Deploy
+---
+https://orby-fintech.onrender.com/
+---
+
+_Projeto desenvolvido para o Desafio Lupo da DIO._
+## 👨‍💻 Autor
+
+**Ricardo Werner**  
+Desenvolvedor Front-end com foco em acessibilidade, UX e inclusão digital. 
+</br>
+Apaixonado por mergulho, fotografia,tecnologia e inovação.
