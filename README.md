@@ -209,9 +209,9 @@ Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição
 
 
 
-## 🪄 Etapas do Desafio
+## O Desafio
 
-### 1. Saber o que Pedir é a Chave! Otimize seus Prompts!
+### Saber o que Pedir é a Chave! Otimize seus Prompts!
 
 Antes de pedir para a IA “criar um app”, é importante definir com clareza o que será desenvolvido e qual problema a solução pretende resolver. 
 Para isso, você irá criar um **PRD (Product Requirements Document)** com as especificações que funcionam como briefing para ajudar a IA a compreender a proposta do projeto.
@@ -359,6 +359,26 @@ Fim do prompt.
 
 [Abrir app (deploy)](https://orby-fintech.onrender.com/)
 
+---
+
+### Reflexão
+
+#### O que funcionou bem?
+* Definição clara do MVP, estruturação do prompt PRD, fluxo conversacional simples e documentação prática, fatores que facilitaram a execução do projeto.
+
+#### O que não funcionou como o esperado?
+* A limitação do plano gratuito do Lovable, com a cota já esgotada, reduziu parte da experimentação. O NLP (Processamento de Linguagem Natural) local apresentou limitações, enquanto a persistência apenas em LocalStorage e o fallback de voz ainda exigem melhorias.
+
+#### O que aprendeu sobre conversar com IA’s?
+* Prompts estruturados e específicos geram respostas mais úteis e alinhadas ao objetivo. Além disso, analisar o que a IA entregou, ajustar e melhorar rapidamente quando necessário foi essencial durante o processo.
+
+--- 
+### Conclusão
+
+> [!IMPORTANT]
+> Vibe Coding demonstrou como a colaboração entre humano e IA pode acelerar a criação de projetos completos, desde a definição de requisitos até a implementação. Mais do que gerar código, orquestrar diferentes IAs exige análise crítica, refinamento contínuo dos prompts e revisão constante das entregas para construir soluções mais consistentes e bem estruturadas.
+
+--- 
 
 _Projeto desenvolvido para o Desafio Lupo da DIO._
 ## 👨‍💻 Autor
